@@ -10,7 +10,8 @@ A comprehensive platform offering a wide range of legal services at a low cost. 
 - Cost-effective solutions for all legal needs
 
 **Technologies Used:**
-- MERN stack (MongoDB, Express.js, React, Node.js)
+- PHP
+- Java Script
 - HTML
 - CSS (Bootstrap)
 
